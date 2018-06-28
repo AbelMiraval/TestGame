@@ -13,7 +13,7 @@
 
 			$gumballMachineInstance->setGumballs(100);
 			$gumballMachineInstance->turnWheel();
-			$this->assertEquals(99,$gumballMachineInstance->getGumballs());
+			$this->assertEquals(1,$gumballMachineInstance->getGumballs());
 		}
 	}
 
