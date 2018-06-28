@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="GumballMachineTest" file="/home/abelsaul/Programing/Php/JenkinsGitHub/tests/GumballMachineTest.php" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="0.000289">
+    <testcase name="testIfWheeWorks" class="GumballMachineTest" classname="GumballMachineTest" file="/home/abelsaul/Programing/Php/JenkinsGitHub/tests/GumballMachineTest.php" line="10" assertions="1" time="0.000289"/>
+  </testsuite>
+</testsuites>

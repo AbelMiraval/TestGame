@@ -12,7 +12,7 @@
 		}
 
 		public function turnWheel(){
-			$this->setGumballs($this->getGumballs());
+			$this->setGumballs($this->getGumballs() - 1);
 		}
 	}
 
